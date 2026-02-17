@@ -1,0 +1,458 @@
+{
+  "magazine": {
+    "title": "مجله گلستان",
+    "items": [
+      {
+        "id": 1,
+        "title": "چیلا کیله",
+        "image": "./images/magazine/recipe-pic-Chilakile-1401.png",
+        "description": "احتمالا نام چیلا کیله را نشنیده باشید ولی اگر یکبار این غذای فوق‌العاده خوشمزه را تهیه کنید و نوش جان کنید جزئی جدانشدنی از فهرست... ",
+        "buttonText": "ادامه مطلب"
+      },
+      {
+        "id": 2,
+        "title": "سوپ مکزیکی",
+        "image": "./images/magazine/recipe-pic3.png",
+        "description": "گوشت بوقلمون را در یک ماهیتابه بزرگ ریخته، آب روی آن بریزید تا روی آن را بپوشاند و به مدت نیم ساعت آن را بپزید. گوشت را از مایع آن بیرون آورده…",
+        "buttonText": "ادامه مطلب"
+      },
+      {
+        "id": 3,
+        "title": "ماکارونی با سبزیجات",
+        "image": "./images/magazine/recipe-pic2.png",
+        "description": "ابتدا ماکارونی‌ها را در ظرفی به همراه آب، روغن مایع و نمک می‌ریزیم تا کمی بپزد. در این حین پیازها را خرد کرده و روی روغن تفت می‌دهیم تا طلایی شود...",
+        "buttonText": "ادامه مطلب"
+      }
+    ]
+  },
+
+  "magazineVideo": {
+    "items": [
+      {
+        "id": 1,
+        "title": "برنج گلستان",
+        "description": "عطر و طعم بی‌نظیر برنج گلستان با هیچ برنج دیگری قابل مقایسه نیست. با گلستان، کیفیت زندگی بالاتر از همیشه است چرا که مشتریان گلستان، لایق بهترین‌ها هستند.",
+        "video": {
+          "thumbnail": "",
+          "url": "https://www.aparat.com/video/video/embed/videohash/Mwp4H/vt/frame?t=0"
+        },
+        "buttonText": "ادامه مطلب"
+      },
+      {
+        "id": 2,
+        "title": "اینستاگرام هاتی نودل",
+        "description": "نودل‌های هاتی کارا را می‌توان جایگزین سالمی برای غذاهای فست‌فودی دانست. طعم عالی، ارزش غذایی بالا و قیمت مناسب از این محصول غذایی سالم و کاملاً ساخته است.",
+        "video": {
+          "thumbnail": "",
+          "url": "https://www.aparat.com/video/video/embed/videohash/Ysaot/vt/frame?t=0"
+        },
+        "buttonText": "ادامه مطلب"
+      },
+      {
+        "id": 3,
+        "title": "سالاد نودل",
+        "description": "نودل‌های هاتی کارا یک میان‌وعده مغذی در هر موقعیتی هستند که با کمی آب جوش و یک نودل هاتی کارا می‌توانید یک غذای سالم و خوشمزه تهیه کنید.",
+        "video": {
+          "thumbnail": "",
+          "url": "https://www.aparat.com/video/video/embed/videohash/cQ0yF/vt/frame?t=4"
+        },
+        "buttonText": "ادامه مطلب"
+      }
+    ]
+  },
+
+  "menu": {
+    "logo": {
+      "src": "./images/header-logo/logo-fr.png"
+    },
+    "items": [
+      {
+        "id": 1,
+        "title": "صفحه اصلی",
+        "href": "/"
+      },
+      {
+        "id": 2,
+        "title": "شرکت گلستان",
+        "href": "/company",
+        "submenu": [
+          {
+            "title": "تاریخچه‌ی گلستان",
+            "href": "/company/history"
+          },
+          {
+            "title": "اخبار و اطلاعات",
+            "href": "/company/news"
+          },
+          {
+            "title": "مسئولیت‌های اجتماعی",
+            "href": "/company/social-responsibility"
+          },
+          {
+            "title": "سازمان فروش",
+            "href": "/company/sales-organization"
+          },
+          {
+            "title": "سازمان توزیع",
+            "href": "/company/distribution-organization"
+          },
+          {
+            "title": "برنده‌ها",
+            "href": "/company/winners"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "محصولات",
+        "href": "/products",
+        "submenu": [
+          {
+            "title": "چای",
+            "href": "/products/tea"
+          },
+          {
+            "title": "برنج",
+            "href": "/products/rice"
+          },
+          {
+            "title": "حبوبات و غلات",
+            "href": "/products/grains"
+          },
+          {
+            "title": "زعفران",
+            "href": "/products/saffron"
+          },
+          {
+            "title": "ادویه",
+            "href": "/products/spices"
+          },
+          {
+            "title": "دمنوش",
+            "href": "/products/herbal-tea"
+          },
+          {
+            "title": "قند و شکر",
+            "href": "/products/sugar"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "وبلاگ",
+        "href": "/blog",
+        "submenu": [
+          {
+            "title": "مجله‌ی گلستان",
+            "href": "/blog/magazine"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "قرعه کشی",
+        "href": "/lottery"
+      },
+      {
+        "id": 6,
+        "title": "استخدام",
+        "href": "/careers"
+      },
+      {
+        "id": 7,
+        "title": "تماس با ما",
+        "href": "/contact",
+        "submenu": [
+          {
+            "title": "دفتر مرکزی",
+            "href": "/contact/head-office"
+          },
+          {
+            "title": "صدای مشتریان",
+            "href": "/contact/customer-voice"
+          },
+          {
+            "title": "ارتباط با مشتریان",
+            "href": "/contact/customer-relations"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "EN",
+        "href": "/en"
+      }
+    ]
+  },
+
+  "banner": {
+    "id": 1,
+    "title": "قرعه‌کشی مصرف‌کنندگان گلستان",
+    "subtitle": "قرعه‌کشی دوره‌ای مصرف‌کنندگان چای گلستان",
+    "description": "هر یک از مصرف‌کنندگان محصولات چای و چای کیسه‌ای گلستان می‌توانند با ارسال کد قرعه‌کشی روی بسته به شماره 30007405 در قرعه کشی‌های دوره‌ای گلستان شرکت کنند. نگهداری از بسته‌بندی محصول برای اهدای جایزه الزامی است. ",
+
+    "buttonText": "اطلاعات بیشتر",
+    "image": "./images/banner/tea-pic1.png"
+  },
+
+  "tea": {
+    "productBanners": {
+      "id": 1,
+
+      "title": "چای گلستان",
+      "subtitle": "معرفی محصول",
+
+      "image": "./images/tea/tea.png",
+      "alt": ""
+  
+    },
+
+    "aboutSections": {
+      "id": 1,
+
+      "title": "سابقه‌ای به قدمت یک عمر",
+      "highlightWord": "گلستان",
+      "paragraphs": [
+        "چای تنها یک نوشیدنی گرم نیست، یک گفت‌وگوست؛ گرما‌بخش، وجود و بهانه‌ای برای آغاز یک معاشرت دل‌چسب. بی‌دلیل نیست که نام «محبوب‌ترین نوشیدنی دنیا» را با خود یدک می‌کشد. نوشیدنش خستگی‌ها را فراری داده، حس خوب آرامش را به همراه دارد.",
+        "برای مردم ایران زمین نام گلستان با چای پیوند خورده است؛ قدیمی‌ترین محصول مجموعه گلستان، با مدرن‌ترین و بهداشتی‌ترین دستگاه‌های روز دنیا تهیه و بسته‌بندی می‌شود. چیزی که باعث شده مشتریانش یک عمر به نام گلستان اعتماد کنند، کیفیت، عطر و طعم به‌یادماندنی آن است."
+      ],
+      "buttonText": "محصولات چای",
+      "buttonLink": ""
+    }
+  },
+
+  
+  "rice": {
+    "productBanners": {
+      "id": 1,
+
+      "title": "برنج گلستان",
+      "subtitle": "معرفی محصول",
+
+      "image": "./images/rice/rice.png",
+      "alt": ""
+  
+    },
+
+    "aboutSections": {
+      "id": 1,
+
+      "title": "رکن اول غذای ایرانی",
+   
+      "paragraphs": ["مرغوب‌ترین برنج دنیا، برنج ایران است و بهترین نوع برنج ایرانی،‌ طارم و هاشمی. این برنج‌ها از بهترین شالیزارهای مازندران برداشت شده، پس از كنترل كیفیت در آزمایشگاه‌های تخصصی گلستان وارد چرخه بسته‌بندی و در وزن‌های مختلف به بازار عرضه می‌شوند. عطر و طعم بی‌نظیر برنج گلستان با هیچ برنج دیگری قابل مقایسه نیست. با گلستان،‌ كیفیت زندگی بالاتر از همیشه است چرا كه مشتریان گلستان؛‌ لایق بهترین‌ها هستند."
+       
+      ],
+      "buttonText": "محصولات برنج",
+      "buttonLink": ""
+    }
+  },
+
+    "pistachio": {
+    "productBanners": {
+      "id": 1,
+
+      "title": "پسته گلستان",
+      "subtitle": "معرفی محصول",
+
+      "image": "./images/pistachio/pistachio.png",
+      "alt": ""
+  
+    },
+
+    "aboutSections": {
+      "id": 1,
+
+      "title": "آجيل‌های خوش خنده",
+       "highlightWord":"پسته گلستان",
+   
+      "paragraphs": ["خواص فوق‌العاده پسته بر كسی پوشیده نیست. پسته را منبع ویتامین و مواد معدنی می‌نامند، یك پمپ خون‌ساز قوی و تسكین دهنده قلب و اعصاب.","پسته گلستان اما حسابش از دیگر پسته‌های بازار جداست. مرغوب‌ترین پسته خام از بهترین باغ‌های پسته ایران دستچین می‌شود.‌ پس از كنترل كیفیت در آزمایشگاه و اطمینان از سلامت محصول،‌ با زعفران درجه یک و نمک، بوداده و برشته شده و‌ پسته گلستان را با طعم و رنگ و عطری بی‌نظیر به ارمغان می‌آورد."],
+       
+      
+      "buttonText": "ناتس گلستان",
+      "buttonLink": ""
+    }
+  },
+  "footer": {
+    "social": {
+     
+      "icons": [
+      
+        {
+          "id": 1,
+          "name": "Facebook",
+          "image": "./images/social/facebook.svg",
+          "link": "#"
+        },
+         {
+          "id": 2,
+          "name": "LinkedIn",
+          "image": "./images/social/linkedin.svg",
+          "link": "#"
+        },
+          {
+          "id": 3,
+          "name": "Instagram",
+          "image": "./images/social/insta.svg",
+          "link": "#"
+        },
+         {
+          "id": 4,
+          "name": "Telegram",
+          "image": "./images/social/telegram.svg",
+          "link": "#"
+        },
+         {
+          "id": 5,
+          "name": "Aparat",
+          "image": "./images/social/aparat.svg",
+          "link": "#"
+        },
+          {
+          "id":6,
+          "name": "گلستان",
+          "image": "./images/social/gl.svg",
+          "link": "#"
+        }
+      ]
+    },
+    "menu":[
+      {
+        "id":1,
+        "image":"./images/footer/tea.png",
+        "title":"چای گلستان",
+        "items":[
+          {
+            "id":"1",
+            "title":"چای ممتاز هندوستان​",
+            "link":""
+          },
+            {
+            "id":"2",
+            "title":"چای ممتاز ارل گری​",
+            "link":""
+          },
+            {
+            "id":"3",
+            "title":"چای سيلان عطری​",
+            "link":""
+          },
+            {
+            "id":"4",
+            "title":"چای ممتاز سيلان​",
+            "link":""
+          },
+            {
+            "id":"5",
+            "title":"چای صبحانه گلستان​",
+            "link":""
+          }
+        ]
+      },
+       {
+        "id":2,
+        "image":"./images/footer/teabag.png",
+        "title":"تی بگ گلستان",
+        "items":[
+          {
+            "id":"1",
+            "title":"تی بگ بلک لاين",
+            "link":""
+          },
+            {
+            "id":"2",
+            "title":"تی بگ ارل گری",
+            "link":""
+          },
+            {
+            "id":"3",
+            "title":"دمنوش نعناع",
+            "link":""
+          },
+            {
+            "id":"4",
+            "title":"دمنوش بابونه",
+            "link":""
+          },
+            {
+            "id":"5",
+            "title":"منوش چای سبز",
+            "link":""
+          }
+        ]
+      },
+       {
+        "id":3,
+        "image":"./images/footer/spice.png",
+        "title":"ادويه گلستان",
+        "items":[
+          {
+            "id":"1",
+            "title":"زعفران ممتاز خراسان",
+            "link":""
+          },
+            {
+            "id":"2",
+            "title":"ادویه کاری",
+            "link":""
+          },
+            {
+            "id":"3",
+            "title":"ادویه ماست و خیار",
+            "link":""
+          },
+            {
+            "id":"4",
+            "title":"فلفل سياه خالص",
+            "link":""
+          },
+            {
+            "id":"5",
+            "title":"زردچوبه ممتاز",
+            "link":""
+          }
+        ]
+      },
+       {
+        "id":4,
+        "image":"./images/footer/legumes.png",
+        "title":"حبوبات گلستان",
+        "items":[
+          {
+            "id":"1",
+            "title":"لوبيا قرمز ممتاز",
+            "link":""
+          },
+            {
+            "id":"2",
+            "title":"لوبيا چيتی گلستان",
+            "link":""
+          },
+            {
+            "id":"3",
+            "title":"عدس كانادايی",
+            "link":""
+          },
+            {
+            "id":"4",
+            "title":"نخود زودپز كرمانشاه",
+            "link":""
+          },
+            {
+            "id":"5",
+            "title":"لوبيا سفيد گلستان",
+            "link":""
+          }
+        ]
+      }
+
+    ],
+    "rule":{
+      "copyright":"All Right Reserved Golestan Company 2022-2025",
+      "design":"Design By: Golestan Studio"
+    }
+
+    
+  }
+
+
+}
