@@ -17,8 +17,8 @@ const Menu_part = ({ menu }) => {
             <div className="menu-items  w-full h-fit pt-3 flex flex-col gap-y-2 items-start justify-start ">
               {part.items?.map((item) => {
                 return (
-                  <div className="font-iransans  text-gray-400  font-normal text-[14px]    hover:text-white">
-                    <Link key={item.id} href="">
+                  <div key={item.id} className="font-iransans  text-gray-400  font-normal text-[14px]    hover:text-white">
+                    <Link  href="">
                       {item.title}
                     </Link>
                   </div>
